@@ -10,6 +10,11 @@ This Demo Allows user to scan a type of code (QR code, Bar Code, etc) within the
 
 
 ## Usage of Each File 
+### ScannerViewController
+### AVCapturePreviewView
+### AVCaptureVideoOrientation+Orientations
+### CaptureSession
+### AVPreviewLayer
 
 ## Creator
 Ibraheem K. Rawlinson
